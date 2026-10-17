@@ -1,0 +1,16 @@
+{
+  "name": "ZimHousing Harare",
+  "short_name": "ZimHousing",
+  "description": "Find verified student housing, rooms, and boarding houses in Harare without the street hustle.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#047857",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
